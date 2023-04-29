@@ -1,1 +1,11 @@
-GIT Terminal
+   Git Linux Terminal
+   Testing Theory
+   Client server
+   SQL
+   Postman
+   Charles Fiddler Sniffing
+   Web Services
+   DevTools
+   Mobile Testing
+   Web Testing
+   Load testing
